@@ -50,6 +50,8 @@ body{
     font-variation-settings: "wght" 800;
     font-size: 14px;
     margin: 0;
+    padding: 4px 12px;
+    border-radius: 4px;
 }
 .publish{
     font-size: 14px;
