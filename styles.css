@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'figtree';
-    src: url('/assets/fonts/Figtree-VariableFont_wght.woff2') format('woff2');
+    src: url('assets/fonts/Figtree-VariableFont_wght.woff2') format('woff2');
     font-weight: 300 900; /* Range of font weights supported */
     font-style: normal;
 }
